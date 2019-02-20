@@ -7,3 +7,8 @@
 7777
 8888
 999
+
+//定义了一个求和的函数
+function demo(str1,st2){
+    return str1+str2
+}
