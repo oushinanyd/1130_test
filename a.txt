@@ -7,6 +7,8 @@
 7777
 8888
 999
+lll
+vvv
 
 //定义了一个求和的函数
 function sum(str1,st2){
